@@ -9,5 +9,12 @@
   "author": {
     "name": "Ganesh K Bhat",
     "email": "ganeshsurfs@gmail.com"
+  },
+  "Info": {
+    "companyName": "Desktop-CGI",
+    "productName": "Desktop-CGI - Wails Vite Framework",
+    "productVersion": "2.0.0-alpha02",
+    "copyright": "Copyright.........MITLicense",
+    "comments": "Built using Wails (https://wails.io)"
   }
 }
