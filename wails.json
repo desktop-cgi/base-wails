@@ -1,11 +1,11 @@
 {
   "$schema": "https://wails.io/schemas/config.v2.json",
-  "name": "test",
-  "outputfilename": "test",
+  "name": "Desktop-CGI",
+  "outputfilename": "desktopcgi",
   "frontend:install": "npm install",
   "frontend:build": "npm run build",
   "frontend:dev:watcher": "npm run dev",
-  "frontend:dev:serverUrl": "auto",
+  
   "author": {
     "name": "Ganesh K Bhat",
     "email": "ganeshsurfs@gmail.com"
@@ -13,8 +13,16 @@
   "Info": {
     "companyName": "Desktop-CGI",
     "productName": "Desktop-CGI - Wails Vite Framework",
-    "productVersion": "2.0.0-alpha02",
+    "productVersion": "2.0.0.0",
     "copyright": "Copyright.........MITLicense",
-    "comments": "Built using Wails (https://wails.io)"
-  }
+    "comments": "Built using Desktop-CGI Wails (https://wails.io)"
+  },
+  "nsisType": "multiple",
+  "obfuscated": true,
+  "garbleargs": "",
+  "assetdir": "",
+  "reloaddirs": "",
+  "build:dir": "",
+  "frontend:dir": "",
+  "frontend:dev:serverUrl": "http://localhost:3000"
 }
