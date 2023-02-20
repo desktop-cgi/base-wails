@@ -22,6 +22,17 @@ to this in your browser, and you can call your Go code from devtools.
 To build a redistributable, production mode package, use `wails build`.
 
 
+# Todo
+
+Check file - [.todo](https://github.com/desktop-cgi/desktop-cgi/blob/main/dev_support/todo/.todo)
+
+
+# References
+
+[Electron Application Distribution](https://www.electronjs.org/docs/tutorial/application-distribution)
+[Wails Application Distribution](https://wails.io/docs/gettingstarted/building)
+[Tauri Application Distribution](https://tauri.app/v1/guides/distribution/publishing)
+
 
 # License
 
